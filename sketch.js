@@ -47,6 +47,7 @@ function draw() {
     sad_sound.play();
 
     game.end();
+    sad_sound.stop();
     
   }
 }
